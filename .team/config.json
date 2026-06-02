@@ -1,0 +1,21 @@
+{
+  "team": {
+    "commander": "EasyClaw",
+    "members": {
+      "claude-code": {
+        "version": "2.1.150",
+        "role": "architect",
+        "path": "~/Library/Application Support/easyclaw/ai/tool_cache/resources/tools/mac/node-24.13.0-arm64/bin/claude"
+      },
+      "codex-cli": {
+        "version": "0.135.0",
+        "role": "prototyper",
+        "path": "~/Library/Application Support/easyclaw/ai/tool_cache/resources/tools/mac/node-24.13.0-arm64/bin/codex"
+      },
+      "github": {
+        "user": "93941014",
+        "repo": "dream-team-hq"
+      }
+    }
+  }
+}
